@@ -1,0 +1,36 @@
+#container{
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 900px;
+}
+button{
+  font-size: 1.5rem;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(4, 131, 57);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+button:hover{
+  background-color: rgb(26, 167, 50);
+}
+button:active{
+  background-color: rgb(26, 167, 70);
+}
+input{
+  font-size: 2rem;
+  text-align: center;
+  width: 150px;
+  font-weight: bold;
+}
+img{
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
